@@ -9,4 +9,3 @@ Fully Local RAG Knowledge Base Agent for Business Operations category. Answers H
 - Gradio Web UI (professional demo)
 - Processes PDFs + TXT files
 
-## Quick Start (2 minutes)
